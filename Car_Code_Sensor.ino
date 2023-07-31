@@ -1,3 +1,6 @@
+// Author: Harmanpreet Singh Sagar
+// Project: Robotic Car with Ultrasonic Sensor
+
 int trigPin = 12;
 int echoPin = 13;
 long returnTime, cm, inches;
