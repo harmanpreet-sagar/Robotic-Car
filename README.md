@@ -10,6 +10,6 @@ For a working demo of this car, please visit my [website](https://harmanpreetsag
 
 The following image showcases the circuit of the car.
 
-![Car Circuit Sensor](https://github.com/harmanpreet-sagar/Robotic-Car/assets/110783820/a788f39f-2f85-4c68-aa4e-2eb3d8be3c59)
+![Car Circuit Sensor](https://github.com/harmanpreet-sagar/Robotic-Car/blob/ce106b099c3cc8afd066375512f41da2c3c27bbd/Car%20Circuit%20Sensor.png)
 
 A schematic diagram for the sensor can be viewed [here](https://github.com/harmanpreet-sagar/Robotic-Car/blob/63604fde83fdaf25b0b54e9bfa95e99970b5f660/Car%20Circuit%20Sensor%20Schematic%20View.pdf) and the component list for the circuit can be viewed [here](https://github.com/harmanpreet-sagar/Robotic-Car/blob/63604fde83fdaf25b0b54e9bfa95e99970b5f660/Car%20Sensor%20Component%20List.csv).
