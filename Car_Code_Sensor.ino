@@ -78,10 +78,6 @@ void loop()
      digitalWrite(5, HIGH);
 
  }
-  
-
-  
- 
 
   /*
   digitalWrite(2, LOW);
@@ -107,7 +103,5 @@ void loop()
   
   delay(2000); 
 */
-
-  
 
 }
