@@ -55,7 +55,7 @@ void loop()
   //moves top forward and bottom backwards
   digitalWrite(5, LOW);
   */
-      if (cm < 15)
+  if (cm < 15)
   {
   //moving forwards code
   //I recommented on what they actually did
@@ -69,10 +69,9 @@ void loop()
   //moves top forward and bottom backwards
   digitalWrite(5, LOW);
   }
- 
  else
  {
-       digitalWrite(3, HIGH);
+     digitalWrite(3, HIGH);
      //does nothing
      digitalWrite(2, LOW);
 
